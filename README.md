@@ -1,2 +1,2 @@
 # vec2.lua
-Basic Vector2 implementation to Lua. Can be used with any libraries or frameworks.
+Basic Vector2 implementation for Lua. Can be used with any libraries or frameworks.
